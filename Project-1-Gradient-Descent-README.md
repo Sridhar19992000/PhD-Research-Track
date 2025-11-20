@@ -58,17 +58,3 @@ The model keeps moving until slope ≈ 0.
 ✔ Takes 25 steps downhill
 ✔ Shows the “walking path” with red dots
 ✔ Prints the minimum found
-
-🧘‍♂️ Why This Project Matters (for PhD)
-
-This project demonstrates:
-
-understanding of optimization
-
-ability to implement mathematical algorithms
-
-ability to visualize learning dynamics
-
-interest in mathematical foundations of machine learning
-
-This is exactly what professors in applied math + ML want to see.
